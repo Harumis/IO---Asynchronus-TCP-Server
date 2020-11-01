@@ -1,0 +1,5 @@
+teodor:teodor
+marek:marek
+marta:marta
+jacek:jacek
+ania:ania

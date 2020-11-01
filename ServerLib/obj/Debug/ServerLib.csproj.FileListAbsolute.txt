@@ -1,0 +1,6 @@
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\bin\Debug\ServerLib.dll
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\bin\Debug\ServerLib.pdb
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\obj\Debug\ServerLib.csprojAssemblyReference.cache
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\obj\Debug\ServerLib.csproj.CoreCompileInputs.cache
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\obj\Debug\ServerLib.dll
+C:\Users\R2R2\source\repos\AsyncTcp\ServerLib\obj\Debug\ServerLib.pdb

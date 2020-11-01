@@ -1,0 +1,10 @@
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.exe.config
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.exe
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.pdb
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\bin\Debug\ServerLib.dll
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\bin\Debug\ServerLib.pdb
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csprojAssemblyReference.cache
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csproj.CoreCompileInputs.cache
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csproj.CopyComplete
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.exe
+C:\Users\R2R2\source\repos\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.pdb
